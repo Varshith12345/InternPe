@@ -1,3 +1,0 @@
-# InternPe
-Projects
-Calculator
